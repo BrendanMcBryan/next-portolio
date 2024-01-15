@@ -1,7 +1,7 @@
 {
   "workbench.colorTheme": "Andromeda",
   "workbench.colorCustomizations": {
-    "terminal.background": "#17202a",
+    "terminal.background": "#080c0f",
     "editor.background": "#000000",
     "activityBar.activeBackground": "#154360",
     "activityBar.background": "#21618c"
